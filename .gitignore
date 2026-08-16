@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.pytest_cache/
+data/events.json
+data/state.json
+data/audit.json
+data/yolo11_telemetry.jsonl
