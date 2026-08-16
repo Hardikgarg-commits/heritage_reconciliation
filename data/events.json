@@ -1,0 +1,2781 @@
+[
+  {
+    "drone_id": "drone_003",
+    "timestamp": "2025-04-05T12:29:58Z",
+    "bbox": [
+      101.0,
+      101.0,
+      201.0,
+      201.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.93,
+    "metadata": {
+      "lighting": "clear"
+    },
+    "event_key": "drone_003|2025-04-05T12:29:58+00:00|101.000000,101.000000,201.000000,201.000000"
+  },
+  {
+    "drone_id": "drone_001",
+    "timestamp": "2025-04-05T12:30:00Z",
+    "bbox": [
+      100.0,
+      100.0,
+      200.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.87,
+    "metadata": {
+      "lighting": "low"
+    },
+    "event_key": "drone_001|2025-04-05T12:30:00+00:00|100.000000,100.000000,200.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_002",
+    "timestamp": "2025-04-05T12:30:02Z",
+    "bbox": [
+      102.0,
+      102.0,
+      202.0,
+      202.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.71,
+    "metadata": {
+      "occlusion": "partial"
+    },
+    "event_key": "drone_002|2025-04-05T12:30:02+00:00|102.000000,102.000000,202.000000,202.000000"
+  },
+  {
+    "drone_id": "drone_002",
+    "timestamp": "2025-04-05T12:30:05Z",
+    "bbox": [
+      101.0,
+      101.0,
+      201.0,
+      201.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.93,
+    "metadata": {},
+    "event_key": "drone_002|2025-04-05T12:30:05+00:00|101.000000,101.000000,201.000000,201.000000"
+  },
+  {
+    "drone_id": "drone_001",
+    "timestamp": "2025-04-05T12:30:07Z",
+    "bbox": [
+      400.0,
+      400.0,
+      500.0,
+      500.0
+    ],
+    "class": "historic_wall",
+    "confidence": 0.88,
+    "metadata": {},
+    "event_key": "drone_001|2025-04-05T12:30:07+00:00|400.000000,400.000000,500.000000,500.000000"
+  },
+  {
+    "drone_id": "drone_load_00",
+    "timestamp": "2026-08-16T04:17:03.426346Z",
+    "bbox": [
+      100.0,
+      100.0,
+      200.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.7,
+    "metadata": {
+      "load_test": true,
+      "sequence": 0
+    },
+    "event_key": "drone_load_00|2026-08-16T04:17:03.426346+00:00|100.000000,100.000000,200.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_01",
+    "timestamp": "2026-08-16T04:17:03.427386Z",
+    "bbox": [
+      101.0,
+      100.0,
+      201.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.71,
+    "metadata": {
+      "load_test": true,
+      "sequence": 1
+    },
+    "event_key": "drone_load_01|2026-08-16T04:17:03.427386+00:00|101.000000,100.000000,201.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_02",
+    "timestamp": "2026-08-16T04:17:03.428396Z",
+    "bbox": [
+      102.0,
+      100.0,
+      202.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.72,
+    "metadata": {
+      "load_test": true,
+      "sequence": 2
+    },
+    "event_key": "drone_load_02|2026-08-16T04:17:03.428396+00:00|102.000000,100.000000,202.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_03",
+    "timestamp": "2026-08-16T04:17:03.429407Z",
+    "bbox": [
+      100.0,
+      100.0,
+      200.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.73,
+    "metadata": {
+      "load_test": true,
+      "sequence": 3
+    },
+    "event_key": "drone_load_03|2026-08-16T04:17:03.429407+00:00|100.000000,100.000000,200.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_00",
+    "timestamp": "2026-08-16T04:17:03.430413Z",
+    "bbox": [
+      101.0,
+      100.0,
+      201.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.74,
+    "metadata": {
+      "load_test": true,
+      "sequence": 4
+    },
+    "event_key": "drone_load_00|2026-08-16T04:17:03.430413+00:00|101.000000,100.000000,201.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_01",
+    "timestamp": "2026-08-16T04:17:03.431420Z",
+    "bbox": [
+      102.0,
+      100.0,
+      202.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.75,
+    "metadata": {
+      "load_test": true,
+      "sequence": 5
+    },
+    "event_key": "drone_load_01|2026-08-16T04:17:03.431420+00:00|102.000000,100.000000,202.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_02",
+    "timestamp": "2026-08-16T04:17:03.432426Z",
+    "bbox": [
+      100.0,
+      100.0,
+      200.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.76,
+    "metadata": {
+      "load_test": true,
+      "sequence": 6
+    },
+    "event_key": "drone_load_02|2026-08-16T04:17:03.432426+00:00|100.000000,100.000000,200.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_03",
+    "timestamp": "2026-08-16T04:17:03.433431Z",
+    "bbox": [
+      101.0,
+      100.0,
+      201.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.77,
+    "metadata": {
+      "load_test": true,
+      "sequence": 7
+    },
+    "event_key": "drone_load_03|2026-08-16T04:17:03.433431+00:00|101.000000,100.000000,201.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_00",
+    "timestamp": "2026-08-16T04:17:03.434437Z",
+    "bbox": [
+      102.0,
+      100.0,
+      202.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.7799999999999999,
+    "metadata": {
+      "load_test": true,
+      "sequence": 8
+    },
+    "event_key": "drone_load_00|2026-08-16T04:17:03.434437+00:00|102.000000,100.000000,202.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_01",
+    "timestamp": "2026-08-16T04:17:03.435443Z",
+    "bbox": [
+      100.0,
+      100.0,
+      200.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.7899999999999999,
+    "metadata": {
+      "load_test": true,
+      "sequence": 9
+    },
+    "event_key": "drone_load_01|2026-08-16T04:17:03.435443+00:00|100.000000,100.000000,200.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_02",
+    "timestamp": "2026-08-16T04:17:03.436449Z",
+    "bbox": [
+      101.0,
+      100.0,
+      201.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.7999999999999999,
+    "metadata": {
+      "load_test": true,
+      "sequence": 10
+    },
+    "event_key": "drone_load_02|2026-08-16T04:17:03.436449+00:00|101.000000,100.000000,201.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_03",
+    "timestamp": "2026-08-16T04:17:03.437454Z",
+    "bbox": [
+      102.0,
+      100.0,
+      202.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.8099999999999999,
+    "metadata": {
+      "load_test": true,
+      "sequence": 11
+    },
+    "event_key": "drone_load_03|2026-08-16T04:17:03.437454+00:00|102.000000,100.000000,202.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_00",
+    "timestamp": "2026-08-16T04:17:03.438460Z",
+    "bbox": [
+      100.0,
+      100.0,
+      200.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.82,
+    "metadata": {
+      "load_test": true,
+      "sequence": 12
+    },
+    "event_key": "drone_load_00|2026-08-16T04:17:03.438460+00:00|100.000000,100.000000,200.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_01",
+    "timestamp": "2026-08-16T04:17:03.439467Z",
+    "bbox": [
+      101.0,
+      100.0,
+      201.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.83,
+    "metadata": {
+      "load_test": true,
+      "sequence": 13
+    },
+    "event_key": "drone_load_01|2026-08-16T04:17:03.439467+00:00|101.000000,100.000000,201.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_02",
+    "timestamp": "2026-08-16T04:17:03.440473Z",
+    "bbox": [
+      102.0,
+      100.0,
+      202.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.84,
+    "metadata": {
+      "load_test": true,
+      "sequence": 14
+    },
+    "event_key": "drone_load_02|2026-08-16T04:17:03.440473+00:00|102.000000,100.000000,202.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_03",
+    "timestamp": "2026-08-16T04:17:03.441478Z",
+    "bbox": [
+      100.0,
+      100.0,
+      200.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.85,
+    "metadata": {
+      "load_test": true,
+      "sequence": 15
+    },
+    "event_key": "drone_load_03|2026-08-16T04:17:03.441478+00:00|100.000000,100.000000,200.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_00",
+    "timestamp": "2026-08-16T04:17:03.442484Z",
+    "bbox": [
+      101.0,
+      100.0,
+      201.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.86,
+    "metadata": {
+      "load_test": true,
+      "sequence": 16
+    },
+    "event_key": "drone_load_00|2026-08-16T04:17:03.442484+00:00|101.000000,100.000000,201.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_01",
+    "timestamp": "2026-08-16T04:17:03.443490Z",
+    "bbox": [
+      102.0,
+      100.0,
+      202.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.87,
+    "metadata": {
+      "load_test": true,
+      "sequence": 17
+    },
+    "event_key": "drone_load_01|2026-08-16T04:17:03.443490+00:00|102.000000,100.000000,202.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_02",
+    "timestamp": "2026-08-16T04:17:03.444496Z",
+    "bbox": [
+      100.0,
+      100.0,
+      200.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.8799999999999999,
+    "metadata": {
+      "load_test": true,
+      "sequence": 18
+    },
+    "event_key": "drone_load_02|2026-08-16T04:17:03.444496+00:00|100.000000,100.000000,200.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_03",
+    "timestamp": "2026-08-16T04:17:03.445501Z",
+    "bbox": [
+      101.0,
+      100.0,
+      201.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.8899999999999999,
+    "metadata": {
+      "load_test": true,
+      "sequence": 19
+    },
+    "event_key": "drone_load_03|2026-08-16T04:17:03.445501+00:00|101.000000,100.000000,201.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_00",
+    "timestamp": "2026-08-16T04:17:03.446507Z",
+    "bbox": [
+      102.0,
+      100.0,
+      202.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.8999999999999999,
+    "metadata": {
+      "load_test": true,
+      "sequence": 20
+    },
+    "event_key": "drone_load_00|2026-08-16T04:17:03.446507+00:00|102.000000,100.000000,202.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_01",
+    "timestamp": "2026-08-16T04:17:03.447513Z",
+    "bbox": [
+      100.0,
+      100.0,
+      200.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.9099999999999999,
+    "metadata": {
+      "load_test": true,
+      "sequence": 21
+    },
+    "event_key": "drone_load_01|2026-08-16T04:17:03.447513+00:00|100.000000,100.000000,200.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_02",
+    "timestamp": "2026-08-16T04:17:03.448520Z",
+    "bbox": [
+      101.0,
+      100.0,
+      201.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.9199999999999999,
+    "metadata": {
+      "load_test": true,
+      "sequence": 22
+    },
+    "event_key": "drone_load_02|2026-08-16T04:17:03.448520+00:00|101.000000,100.000000,201.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_03",
+    "timestamp": "2026-08-16T04:17:03.449527Z",
+    "bbox": [
+      102.0,
+      100.0,
+      202.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.9299999999999999,
+    "metadata": {
+      "load_test": true,
+      "sequence": 23
+    },
+    "event_key": "drone_load_03|2026-08-16T04:17:03.449527+00:00|102.000000,100.000000,202.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_00",
+    "timestamp": "2026-08-16T04:17:03.450534Z",
+    "bbox": [
+      100.0,
+      100.0,
+      200.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.94,
+    "metadata": {
+      "load_test": true,
+      "sequence": 24
+    },
+    "event_key": "drone_load_00|2026-08-16T04:17:03.450534+00:00|100.000000,100.000000,200.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_01",
+    "timestamp": "2026-08-16T04:17:03.451540Z",
+    "bbox": [
+      101.0,
+      100.0,
+      201.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.7,
+    "metadata": {
+      "load_test": true,
+      "sequence": 25
+    },
+    "event_key": "drone_load_01|2026-08-16T04:17:03.451540+00:00|101.000000,100.000000,201.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_02",
+    "timestamp": "2026-08-16T04:17:03.452548Z",
+    "bbox": [
+      102.0,
+      100.0,
+      202.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.71,
+    "metadata": {
+      "load_test": true,
+      "sequence": 26
+    },
+    "event_key": "drone_load_02|2026-08-16T04:17:03.452548+00:00|102.000000,100.000000,202.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_03",
+    "timestamp": "2026-08-16T04:17:03.453554Z",
+    "bbox": [
+      100.0,
+      100.0,
+      200.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.72,
+    "metadata": {
+      "load_test": true,
+      "sequence": 27
+    },
+    "event_key": "drone_load_03|2026-08-16T04:17:03.453554+00:00|100.000000,100.000000,200.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_00",
+    "timestamp": "2026-08-16T04:17:03.454560Z",
+    "bbox": [
+      101.0,
+      100.0,
+      201.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.73,
+    "metadata": {
+      "load_test": true,
+      "sequence": 28
+    },
+    "event_key": "drone_load_00|2026-08-16T04:17:03.454560+00:00|101.000000,100.000000,201.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_01",
+    "timestamp": "2026-08-16T04:17:03.455565Z",
+    "bbox": [
+      102.0,
+      100.0,
+      202.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.74,
+    "metadata": {
+      "load_test": true,
+      "sequence": 29
+    },
+    "event_key": "drone_load_01|2026-08-16T04:17:03.455565+00:00|102.000000,100.000000,202.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_02",
+    "timestamp": "2026-08-16T04:17:03.456571Z",
+    "bbox": [
+      100.0,
+      100.0,
+      200.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.75,
+    "metadata": {
+      "load_test": true,
+      "sequence": 30
+    },
+    "event_key": "drone_load_02|2026-08-16T04:17:03.456571+00:00|100.000000,100.000000,200.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_03",
+    "timestamp": "2026-08-16T04:17:03.457577Z",
+    "bbox": [
+      101.0,
+      100.0,
+      201.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.76,
+    "metadata": {
+      "load_test": true,
+      "sequence": 31
+    },
+    "event_key": "drone_load_03|2026-08-16T04:17:03.457577+00:00|101.000000,100.000000,201.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_00",
+    "timestamp": "2026-08-16T04:17:03.458582Z",
+    "bbox": [
+      102.0,
+      100.0,
+      202.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.77,
+    "metadata": {
+      "load_test": true,
+      "sequence": 32
+    },
+    "event_key": "drone_load_00|2026-08-16T04:17:03.458582+00:00|102.000000,100.000000,202.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_01",
+    "timestamp": "2026-08-16T04:17:03.459588Z",
+    "bbox": [
+      100.0,
+      100.0,
+      200.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.7799999999999999,
+    "metadata": {
+      "load_test": true,
+      "sequence": 33
+    },
+    "event_key": "drone_load_01|2026-08-16T04:17:03.459588+00:00|100.000000,100.000000,200.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_02",
+    "timestamp": "2026-08-16T04:17:03.460593Z",
+    "bbox": [
+      101.0,
+      100.0,
+      201.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.7899999999999999,
+    "metadata": {
+      "load_test": true,
+      "sequence": 34
+    },
+    "event_key": "drone_load_02|2026-08-16T04:17:03.460593+00:00|101.000000,100.000000,201.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_03",
+    "timestamp": "2026-08-16T04:17:03.461599Z",
+    "bbox": [
+      102.0,
+      100.0,
+      202.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.7999999999999999,
+    "metadata": {
+      "load_test": true,
+      "sequence": 35
+    },
+    "event_key": "drone_load_03|2026-08-16T04:17:03.461599+00:00|102.000000,100.000000,202.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_00",
+    "timestamp": "2026-08-16T04:17:03.462604Z",
+    "bbox": [
+      100.0,
+      100.0,
+      200.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.8099999999999999,
+    "metadata": {
+      "load_test": true,
+      "sequence": 36
+    },
+    "event_key": "drone_load_00|2026-08-16T04:17:03.462604+00:00|100.000000,100.000000,200.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_01",
+    "timestamp": "2026-08-16T04:17:03.463610Z",
+    "bbox": [
+      101.0,
+      100.0,
+      201.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.82,
+    "metadata": {
+      "load_test": true,
+      "sequence": 37
+    },
+    "event_key": "drone_load_01|2026-08-16T04:17:03.463610+00:00|101.000000,100.000000,201.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_02",
+    "timestamp": "2026-08-16T04:17:03.464616Z",
+    "bbox": [
+      102.0,
+      100.0,
+      202.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.83,
+    "metadata": {
+      "load_test": true,
+      "sequence": 38
+    },
+    "event_key": "drone_load_02|2026-08-16T04:17:03.464616+00:00|102.000000,100.000000,202.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_03",
+    "timestamp": "2026-08-16T04:17:03.465622Z",
+    "bbox": [
+      100.0,
+      100.0,
+      200.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.84,
+    "metadata": {
+      "load_test": true,
+      "sequence": 39
+    },
+    "event_key": "drone_load_03|2026-08-16T04:17:03.465622+00:00|100.000000,100.000000,200.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_00",
+    "timestamp": "2026-08-16T04:17:03.466628Z",
+    "bbox": [
+      101.0,
+      100.0,
+      201.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.85,
+    "metadata": {
+      "load_test": true,
+      "sequence": 40
+    },
+    "event_key": "drone_load_00|2026-08-16T04:17:03.466628+00:00|101.000000,100.000000,201.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_01",
+    "timestamp": "2026-08-16T04:17:03.467634Z",
+    "bbox": [
+      102.0,
+      100.0,
+      202.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.86,
+    "metadata": {
+      "load_test": true,
+      "sequence": 41
+    },
+    "event_key": "drone_load_01|2026-08-16T04:17:03.467634+00:00|102.000000,100.000000,202.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_02",
+    "timestamp": "2026-08-16T04:17:03.468641Z",
+    "bbox": [
+      100.0,
+      100.0,
+      200.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.87,
+    "metadata": {
+      "load_test": true,
+      "sequence": 42
+    },
+    "event_key": "drone_load_02|2026-08-16T04:17:03.468641+00:00|100.000000,100.000000,200.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_03",
+    "timestamp": "2026-08-16T04:17:03.469647Z",
+    "bbox": [
+      101.0,
+      100.0,
+      201.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.8799999999999999,
+    "metadata": {
+      "load_test": true,
+      "sequence": 43
+    },
+    "event_key": "drone_load_03|2026-08-16T04:17:03.469647+00:00|101.000000,100.000000,201.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_00",
+    "timestamp": "2026-08-16T04:17:03.470653Z",
+    "bbox": [
+      102.0,
+      100.0,
+      202.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.8899999999999999,
+    "metadata": {
+      "load_test": true,
+      "sequence": 44
+    },
+    "event_key": "drone_load_00|2026-08-16T04:17:03.470653+00:00|102.000000,100.000000,202.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_01",
+    "timestamp": "2026-08-16T04:17:03.471659Z",
+    "bbox": [
+      100.0,
+      100.0,
+      200.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.8999999999999999,
+    "metadata": {
+      "load_test": true,
+      "sequence": 45
+    },
+    "event_key": "drone_load_01|2026-08-16T04:17:03.471659+00:00|100.000000,100.000000,200.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_02",
+    "timestamp": "2026-08-16T04:17:03.472664Z",
+    "bbox": [
+      101.0,
+      100.0,
+      201.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.9099999999999999,
+    "metadata": {
+      "load_test": true,
+      "sequence": 46
+    },
+    "event_key": "drone_load_02|2026-08-16T04:17:03.472664+00:00|101.000000,100.000000,201.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_03",
+    "timestamp": "2026-08-16T04:17:03.473671Z",
+    "bbox": [
+      102.0,
+      100.0,
+      202.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.9199999999999999,
+    "metadata": {
+      "load_test": true,
+      "sequence": 47
+    },
+    "event_key": "drone_load_03|2026-08-16T04:17:03.473671+00:00|102.000000,100.000000,202.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_00",
+    "timestamp": "2026-08-16T04:17:03.474676Z",
+    "bbox": [
+      100.0,
+      100.0,
+      200.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.9299999999999999,
+    "metadata": {
+      "load_test": true,
+      "sequence": 48
+    },
+    "event_key": "drone_load_00|2026-08-16T04:17:03.474676+00:00|100.000000,100.000000,200.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_01",
+    "timestamp": "2026-08-16T04:17:03.475681Z",
+    "bbox": [
+      101.0,
+      100.0,
+      201.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.94,
+    "metadata": {
+      "load_test": true,
+      "sequence": 49
+    },
+    "event_key": "drone_load_01|2026-08-16T04:17:03.475681+00:00|101.000000,100.000000,201.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_02",
+    "timestamp": "2026-08-16T04:17:03.476685Z",
+    "bbox": [
+      102.0,
+      100.0,
+      202.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.7,
+    "metadata": {
+      "load_test": true,
+      "sequence": 50
+    },
+    "event_key": "drone_load_02|2026-08-16T04:17:03.476685+00:00|102.000000,100.000000,202.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_03",
+    "timestamp": "2026-08-16T04:17:03.477690Z",
+    "bbox": [
+      100.0,
+      100.0,
+      200.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.71,
+    "metadata": {
+      "load_test": true,
+      "sequence": 51
+    },
+    "event_key": "drone_load_03|2026-08-16T04:17:03.477690+00:00|100.000000,100.000000,200.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_00",
+    "timestamp": "2026-08-16T04:17:03.478697Z",
+    "bbox": [
+      101.0,
+      100.0,
+      201.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.72,
+    "metadata": {
+      "load_test": true,
+      "sequence": 52
+    },
+    "event_key": "drone_load_00|2026-08-16T04:17:03.478697+00:00|101.000000,100.000000,201.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_01",
+    "timestamp": "2026-08-16T04:17:03.479703Z",
+    "bbox": [
+      102.0,
+      100.0,
+      202.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.73,
+    "metadata": {
+      "load_test": true,
+      "sequence": 53
+    },
+    "event_key": "drone_load_01|2026-08-16T04:17:03.479703+00:00|102.000000,100.000000,202.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_02",
+    "timestamp": "2026-08-16T04:17:03.480708Z",
+    "bbox": [
+      100.0,
+      100.0,
+      200.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.74,
+    "metadata": {
+      "load_test": true,
+      "sequence": 54
+    },
+    "event_key": "drone_load_02|2026-08-16T04:17:03.480708+00:00|100.000000,100.000000,200.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_03",
+    "timestamp": "2026-08-16T04:17:03.481714Z",
+    "bbox": [
+      101.0,
+      100.0,
+      201.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.75,
+    "metadata": {
+      "load_test": true,
+      "sequence": 55
+    },
+    "event_key": "drone_load_03|2026-08-16T04:17:03.481714+00:00|101.000000,100.000000,201.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_00",
+    "timestamp": "2026-08-16T04:17:03.482719Z",
+    "bbox": [
+      102.0,
+      100.0,
+      202.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.76,
+    "metadata": {
+      "load_test": true,
+      "sequence": 56
+    },
+    "event_key": "drone_load_00|2026-08-16T04:17:03.482719+00:00|102.000000,100.000000,202.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_01",
+    "timestamp": "2026-08-16T04:17:03.483725Z",
+    "bbox": [
+      100.0,
+      100.0,
+      200.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.77,
+    "metadata": {
+      "load_test": true,
+      "sequence": 57
+    },
+    "event_key": "drone_load_01|2026-08-16T04:17:03.483725+00:00|100.000000,100.000000,200.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_02",
+    "timestamp": "2026-08-16T04:17:03.484731Z",
+    "bbox": [
+      101.0,
+      100.0,
+      201.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.7799999999999999,
+    "metadata": {
+      "load_test": true,
+      "sequence": 58
+    },
+    "event_key": "drone_load_02|2026-08-16T04:17:03.484731+00:00|101.000000,100.000000,201.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_03",
+    "timestamp": "2026-08-16T04:17:03.485737Z",
+    "bbox": [
+      102.0,
+      100.0,
+      202.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.7899999999999999,
+    "metadata": {
+      "load_test": true,
+      "sequence": 59
+    },
+    "event_key": "drone_load_03|2026-08-16T04:17:03.485737+00:00|102.000000,100.000000,202.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_00",
+    "timestamp": "2026-08-16T04:17:03.486743Z",
+    "bbox": [
+      100.0,
+      100.0,
+      200.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.7999999999999999,
+    "metadata": {
+      "load_test": true,
+      "sequence": 60
+    },
+    "event_key": "drone_load_00|2026-08-16T04:17:03.486743+00:00|100.000000,100.000000,200.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_01",
+    "timestamp": "2026-08-16T04:17:03.487749Z",
+    "bbox": [
+      101.0,
+      100.0,
+      201.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.8099999999999999,
+    "metadata": {
+      "load_test": true,
+      "sequence": 61
+    },
+    "event_key": "drone_load_01|2026-08-16T04:17:03.487749+00:00|101.000000,100.000000,201.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_02",
+    "timestamp": "2026-08-16T04:17:03.488756Z",
+    "bbox": [
+      102.0,
+      100.0,
+      202.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.82,
+    "metadata": {
+      "load_test": true,
+      "sequence": 62
+    },
+    "event_key": "drone_load_02|2026-08-16T04:17:03.488756+00:00|102.000000,100.000000,202.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_03",
+    "timestamp": "2026-08-16T04:17:03.489761Z",
+    "bbox": [
+      100.0,
+      100.0,
+      200.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.83,
+    "metadata": {
+      "load_test": true,
+      "sequence": 63
+    },
+    "event_key": "drone_load_03|2026-08-16T04:17:03.489761+00:00|100.000000,100.000000,200.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_00",
+    "timestamp": "2026-08-16T04:17:03.490766Z",
+    "bbox": [
+      101.0,
+      100.0,
+      201.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.84,
+    "metadata": {
+      "load_test": true,
+      "sequence": 64
+    },
+    "event_key": "drone_load_00|2026-08-16T04:17:03.490766+00:00|101.000000,100.000000,201.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_01",
+    "timestamp": "2026-08-16T04:17:03.491775Z",
+    "bbox": [
+      102.0,
+      100.0,
+      202.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.85,
+    "metadata": {
+      "load_test": true,
+      "sequence": 65
+    },
+    "event_key": "drone_load_01|2026-08-16T04:17:03.491775+00:00|102.000000,100.000000,202.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_02",
+    "timestamp": "2026-08-16T04:17:03.492781Z",
+    "bbox": [
+      100.0,
+      100.0,
+      200.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.86,
+    "metadata": {
+      "load_test": true,
+      "sequence": 66
+    },
+    "event_key": "drone_load_02|2026-08-16T04:17:03.492781+00:00|100.000000,100.000000,200.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_03",
+    "timestamp": "2026-08-16T04:17:03.493786Z",
+    "bbox": [
+      101.0,
+      100.0,
+      201.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.87,
+    "metadata": {
+      "load_test": true,
+      "sequence": 67
+    },
+    "event_key": "drone_load_03|2026-08-16T04:17:03.493786+00:00|101.000000,100.000000,201.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_00",
+    "timestamp": "2026-08-16T04:17:03.494792Z",
+    "bbox": [
+      102.0,
+      100.0,
+      202.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.8799999999999999,
+    "metadata": {
+      "load_test": true,
+      "sequence": 68
+    },
+    "event_key": "drone_load_00|2026-08-16T04:17:03.494792+00:00|102.000000,100.000000,202.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_01",
+    "timestamp": "2026-08-16T04:17:03.495798Z",
+    "bbox": [
+      100.0,
+      100.0,
+      200.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.8899999999999999,
+    "metadata": {
+      "load_test": true,
+      "sequence": 69
+    },
+    "event_key": "drone_load_01|2026-08-16T04:17:03.495798+00:00|100.000000,100.000000,200.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_02",
+    "timestamp": "2026-08-16T04:17:03.496803Z",
+    "bbox": [
+      101.0,
+      100.0,
+      201.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.8999999999999999,
+    "metadata": {
+      "load_test": true,
+      "sequence": 70
+    },
+    "event_key": "drone_load_02|2026-08-16T04:17:03.496803+00:00|101.000000,100.000000,201.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_03",
+    "timestamp": "2026-08-16T04:17:03.497810Z",
+    "bbox": [
+      102.0,
+      100.0,
+      202.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.9099999999999999,
+    "metadata": {
+      "load_test": true,
+      "sequence": 71
+    },
+    "event_key": "drone_load_03|2026-08-16T04:17:03.497810+00:00|102.000000,100.000000,202.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_00",
+    "timestamp": "2026-08-16T04:17:03.498815Z",
+    "bbox": [
+      100.0,
+      100.0,
+      200.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.9199999999999999,
+    "metadata": {
+      "load_test": true,
+      "sequence": 72
+    },
+    "event_key": "drone_load_00|2026-08-16T04:17:03.498815+00:00|100.000000,100.000000,200.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_01",
+    "timestamp": "2026-08-16T04:17:03.499821Z",
+    "bbox": [
+      101.0,
+      100.0,
+      201.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.9299999999999999,
+    "metadata": {
+      "load_test": true,
+      "sequence": 73
+    },
+    "event_key": "drone_load_01|2026-08-16T04:17:03.499821+00:00|101.000000,100.000000,201.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_02",
+    "timestamp": "2026-08-16T04:17:03.500827Z",
+    "bbox": [
+      102.0,
+      100.0,
+      202.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.94,
+    "metadata": {
+      "load_test": true,
+      "sequence": 74
+    },
+    "event_key": "drone_load_02|2026-08-16T04:17:03.500827+00:00|102.000000,100.000000,202.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_03",
+    "timestamp": "2026-08-16T04:17:03.501833Z",
+    "bbox": [
+      100.0,
+      100.0,
+      200.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.7,
+    "metadata": {
+      "load_test": true,
+      "sequence": 75
+    },
+    "event_key": "drone_load_03|2026-08-16T04:17:03.501833+00:00|100.000000,100.000000,200.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_00",
+    "timestamp": "2026-08-16T04:17:03.502840Z",
+    "bbox": [
+      101.0,
+      100.0,
+      201.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.71,
+    "metadata": {
+      "load_test": true,
+      "sequence": 76
+    },
+    "event_key": "drone_load_00|2026-08-16T04:17:03.502840+00:00|101.000000,100.000000,201.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_01",
+    "timestamp": "2026-08-16T04:17:03.503848Z",
+    "bbox": [
+      102.0,
+      100.0,
+      202.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.72,
+    "metadata": {
+      "load_test": true,
+      "sequence": 77
+    },
+    "event_key": "drone_load_01|2026-08-16T04:17:03.503848+00:00|102.000000,100.000000,202.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_02",
+    "timestamp": "2026-08-16T04:17:03.504854Z",
+    "bbox": [
+      100.0,
+      100.0,
+      200.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.73,
+    "metadata": {
+      "load_test": true,
+      "sequence": 78
+    },
+    "event_key": "drone_load_02|2026-08-16T04:17:03.504854+00:00|100.000000,100.000000,200.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_03",
+    "timestamp": "2026-08-16T04:17:03.505860Z",
+    "bbox": [
+      101.0,
+      100.0,
+      201.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.74,
+    "metadata": {
+      "load_test": true,
+      "sequence": 79
+    },
+    "event_key": "drone_load_03|2026-08-16T04:17:03.505860+00:00|101.000000,100.000000,201.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_00",
+    "timestamp": "2026-08-16T04:17:03.506866Z",
+    "bbox": [
+      102.0,
+      100.0,
+      202.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.75,
+    "metadata": {
+      "load_test": true,
+      "sequence": 80
+    },
+    "event_key": "drone_load_00|2026-08-16T04:17:03.506866+00:00|102.000000,100.000000,202.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_01",
+    "timestamp": "2026-08-16T04:17:03.507872Z",
+    "bbox": [
+      100.0,
+      100.0,
+      200.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.76,
+    "metadata": {
+      "load_test": true,
+      "sequence": 81
+    },
+    "event_key": "drone_load_01|2026-08-16T04:17:03.507872+00:00|100.000000,100.000000,200.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_02",
+    "timestamp": "2026-08-16T04:17:03.508878Z",
+    "bbox": [
+      101.0,
+      100.0,
+      201.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.77,
+    "metadata": {
+      "load_test": true,
+      "sequence": 82
+    },
+    "event_key": "drone_load_02|2026-08-16T04:17:03.508878+00:00|101.000000,100.000000,201.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_03",
+    "timestamp": "2026-08-16T04:17:03.509883Z",
+    "bbox": [
+      102.0,
+      100.0,
+      202.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.7799999999999999,
+    "metadata": {
+      "load_test": true,
+      "sequence": 83
+    },
+    "event_key": "drone_load_03|2026-08-16T04:17:03.509883+00:00|102.000000,100.000000,202.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_00",
+    "timestamp": "2026-08-16T04:17:03.510889Z",
+    "bbox": [
+      100.0,
+      100.0,
+      200.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.7899999999999999,
+    "metadata": {
+      "load_test": true,
+      "sequence": 84
+    },
+    "event_key": "drone_load_00|2026-08-16T04:17:03.510889+00:00|100.000000,100.000000,200.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_01",
+    "timestamp": "2026-08-16T04:17:03.511895Z",
+    "bbox": [
+      101.0,
+      100.0,
+      201.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.7999999999999999,
+    "metadata": {
+      "load_test": true,
+      "sequence": 85
+    },
+    "event_key": "drone_load_01|2026-08-16T04:17:03.511895+00:00|101.000000,100.000000,201.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_02",
+    "timestamp": "2026-08-16T04:17:03.512908Z",
+    "bbox": [
+      102.0,
+      100.0,
+      202.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.8099999999999999,
+    "metadata": {
+      "load_test": true,
+      "sequence": 86
+    },
+    "event_key": "drone_load_02|2026-08-16T04:17:03.512908+00:00|102.000000,100.000000,202.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_03",
+    "timestamp": "2026-08-16T04:17:03.513913Z",
+    "bbox": [
+      100.0,
+      100.0,
+      200.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.82,
+    "metadata": {
+      "load_test": true,
+      "sequence": 87
+    },
+    "event_key": "drone_load_03|2026-08-16T04:17:03.513913+00:00|100.000000,100.000000,200.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_00",
+    "timestamp": "2026-08-16T04:17:03.514919Z",
+    "bbox": [
+      101.0,
+      100.0,
+      201.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.83,
+    "metadata": {
+      "load_test": true,
+      "sequence": 88
+    },
+    "event_key": "drone_load_00|2026-08-16T04:17:03.514919+00:00|101.000000,100.000000,201.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_01",
+    "timestamp": "2026-08-16T04:17:03.515925Z",
+    "bbox": [
+      102.0,
+      100.0,
+      202.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.84,
+    "metadata": {
+      "load_test": true,
+      "sequence": 89
+    },
+    "event_key": "drone_load_01|2026-08-16T04:17:03.515925+00:00|102.000000,100.000000,202.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_02",
+    "timestamp": "2026-08-16T04:17:03.516930Z",
+    "bbox": [
+      100.0,
+      100.0,
+      200.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.85,
+    "metadata": {
+      "load_test": true,
+      "sequence": 90
+    },
+    "event_key": "drone_load_02|2026-08-16T04:17:03.516930+00:00|100.000000,100.000000,200.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_03",
+    "timestamp": "2026-08-16T04:17:03.517937Z",
+    "bbox": [
+      101.0,
+      100.0,
+      201.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.86,
+    "metadata": {
+      "load_test": true,
+      "sequence": 91
+    },
+    "event_key": "drone_load_03|2026-08-16T04:17:03.517937+00:00|101.000000,100.000000,201.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_00",
+    "timestamp": "2026-08-16T04:17:03.518943Z",
+    "bbox": [
+      102.0,
+      100.0,
+      202.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.87,
+    "metadata": {
+      "load_test": true,
+      "sequence": 92
+    },
+    "event_key": "drone_load_00|2026-08-16T04:17:03.518943+00:00|102.000000,100.000000,202.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_01",
+    "timestamp": "2026-08-16T04:17:03.519949Z",
+    "bbox": [
+      100.0,
+      100.0,
+      200.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.8799999999999999,
+    "metadata": {
+      "load_test": true,
+      "sequence": 93
+    },
+    "event_key": "drone_load_01|2026-08-16T04:17:03.519949+00:00|100.000000,100.000000,200.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_02",
+    "timestamp": "2026-08-16T04:17:03.520955Z",
+    "bbox": [
+      101.0,
+      100.0,
+      201.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.8899999999999999,
+    "metadata": {
+      "load_test": true,
+      "sequence": 94
+    },
+    "event_key": "drone_load_02|2026-08-16T04:17:03.520955+00:00|101.000000,100.000000,201.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_03",
+    "timestamp": "2026-08-16T04:17:03.521961Z",
+    "bbox": [
+      102.0,
+      100.0,
+      202.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.8999999999999999,
+    "metadata": {
+      "load_test": true,
+      "sequence": 95
+    },
+    "event_key": "drone_load_03|2026-08-16T04:17:03.521961+00:00|102.000000,100.000000,202.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_00",
+    "timestamp": "2026-08-16T04:17:03.522966Z",
+    "bbox": [
+      100.0,
+      100.0,
+      200.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.9099999999999999,
+    "metadata": {
+      "load_test": true,
+      "sequence": 96
+    },
+    "event_key": "drone_load_00|2026-08-16T04:17:03.522966+00:00|100.000000,100.000000,200.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_01",
+    "timestamp": "2026-08-16T04:17:03.523971Z",
+    "bbox": [
+      101.0,
+      100.0,
+      201.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.9199999999999999,
+    "metadata": {
+      "load_test": true,
+      "sequence": 97
+    },
+    "event_key": "drone_load_01|2026-08-16T04:17:03.523971+00:00|101.000000,100.000000,201.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_02",
+    "timestamp": "2026-08-16T04:17:03.524975Z",
+    "bbox": [
+      102.0,
+      100.0,
+      202.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.9299999999999999,
+    "metadata": {
+      "load_test": true,
+      "sequence": 98
+    },
+    "event_key": "drone_load_02|2026-08-16T04:17:03.524975+00:00|102.000000,100.000000,202.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_03",
+    "timestamp": "2026-08-16T04:17:03.525981Z",
+    "bbox": [
+      100.0,
+      100.0,
+      200.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.94,
+    "metadata": {
+      "load_test": true,
+      "sequence": 99
+    },
+    "event_key": "drone_load_03|2026-08-16T04:17:03.525981+00:00|100.000000,100.000000,200.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_00",
+    "timestamp": "2026-08-16T04:17:03.526987Z",
+    "bbox": [
+      101.0,
+      100.0,
+      201.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.7,
+    "metadata": {
+      "load_test": true,
+      "sequence": 100
+    },
+    "event_key": "drone_load_00|2026-08-16T04:17:03.526987+00:00|101.000000,100.000000,201.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_01",
+    "timestamp": "2026-08-16T04:17:03.527994Z",
+    "bbox": [
+      102.0,
+      100.0,
+      202.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.71,
+    "metadata": {
+      "load_test": true,
+      "sequence": 101
+    },
+    "event_key": "drone_load_01|2026-08-16T04:17:03.527994+00:00|102.000000,100.000000,202.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_02",
+    "timestamp": "2026-08-16T04:17:03.528999Z",
+    "bbox": [
+      100.0,
+      100.0,
+      200.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.72,
+    "metadata": {
+      "load_test": true,
+      "sequence": 102
+    },
+    "event_key": "drone_load_02|2026-08-16T04:17:03.528999+00:00|100.000000,100.000000,200.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_03",
+    "timestamp": "2026-08-16T04:17:03.530004Z",
+    "bbox": [
+      101.0,
+      100.0,
+      201.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.73,
+    "metadata": {
+      "load_test": true,
+      "sequence": 103
+    },
+    "event_key": "drone_load_03|2026-08-16T04:17:03.530004+00:00|101.000000,100.000000,201.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_00",
+    "timestamp": "2026-08-16T04:17:03.531012Z",
+    "bbox": [
+      102.0,
+      100.0,
+      202.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.74,
+    "metadata": {
+      "load_test": true,
+      "sequence": 104
+    },
+    "event_key": "drone_load_00|2026-08-16T04:17:03.531012+00:00|102.000000,100.000000,202.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_01",
+    "timestamp": "2026-08-16T04:17:03.532018Z",
+    "bbox": [
+      100.0,
+      100.0,
+      200.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.75,
+    "metadata": {
+      "load_test": true,
+      "sequence": 105
+    },
+    "event_key": "drone_load_01|2026-08-16T04:17:03.532018+00:00|100.000000,100.000000,200.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_02",
+    "timestamp": "2026-08-16T04:17:03.533023Z",
+    "bbox": [
+      101.0,
+      100.0,
+      201.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.76,
+    "metadata": {
+      "load_test": true,
+      "sequence": 106
+    },
+    "event_key": "drone_load_02|2026-08-16T04:17:03.533023+00:00|101.000000,100.000000,201.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_03",
+    "timestamp": "2026-08-16T04:17:03.534028Z",
+    "bbox": [
+      102.0,
+      100.0,
+      202.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.77,
+    "metadata": {
+      "load_test": true,
+      "sequence": 107
+    },
+    "event_key": "drone_load_03|2026-08-16T04:17:03.534028+00:00|102.000000,100.000000,202.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_00",
+    "timestamp": "2026-08-16T04:17:03.535033Z",
+    "bbox": [
+      100.0,
+      100.0,
+      200.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.7799999999999999,
+    "metadata": {
+      "load_test": true,
+      "sequence": 108
+    },
+    "event_key": "drone_load_00|2026-08-16T04:17:03.535033+00:00|100.000000,100.000000,200.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_01",
+    "timestamp": "2026-08-16T04:17:03.536040Z",
+    "bbox": [
+      101.0,
+      100.0,
+      201.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.7899999999999999,
+    "metadata": {
+      "load_test": true,
+      "sequence": 109
+    },
+    "event_key": "drone_load_01|2026-08-16T04:17:03.536040+00:00|101.000000,100.000000,201.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_02",
+    "timestamp": "2026-08-16T04:17:03.537046Z",
+    "bbox": [
+      102.0,
+      100.0,
+      202.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.7999999999999999,
+    "metadata": {
+      "load_test": true,
+      "sequence": 110
+    },
+    "event_key": "drone_load_02|2026-08-16T04:17:03.537046+00:00|102.000000,100.000000,202.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_03",
+    "timestamp": "2026-08-16T04:17:03.538051Z",
+    "bbox": [
+      100.0,
+      100.0,
+      200.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.8099999999999999,
+    "metadata": {
+      "load_test": true,
+      "sequence": 111
+    },
+    "event_key": "drone_load_03|2026-08-16T04:17:03.538051+00:00|100.000000,100.000000,200.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_00",
+    "timestamp": "2026-08-16T04:17:03.539057Z",
+    "bbox": [
+      101.0,
+      100.0,
+      201.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.82,
+    "metadata": {
+      "load_test": true,
+      "sequence": 112
+    },
+    "event_key": "drone_load_00|2026-08-16T04:17:03.539057+00:00|101.000000,100.000000,201.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_01",
+    "timestamp": "2026-08-16T04:17:03.540062Z",
+    "bbox": [
+      102.0,
+      100.0,
+      202.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.83,
+    "metadata": {
+      "load_test": true,
+      "sequence": 113
+    },
+    "event_key": "drone_load_01|2026-08-16T04:17:03.540062+00:00|102.000000,100.000000,202.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_02",
+    "timestamp": "2026-08-16T04:17:03.541069Z",
+    "bbox": [
+      100.0,
+      100.0,
+      200.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.84,
+    "metadata": {
+      "load_test": true,
+      "sequence": 114
+    },
+    "event_key": "drone_load_02|2026-08-16T04:17:03.541069+00:00|100.000000,100.000000,200.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_03",
+    "timestamp": "2026-08-16T04:17:03.542076Z",
+    "bbox": [
+      101.0,
+      100.0,
+      201.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.85,
+    "metadata": {
+      "load_test": true,
+      "sequence": 115
+    },
+    "event_key": "drone_load_03|2026-08-16T04:17:03.542076+00:00|101.000000,100.000000,201.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_00",
+    "timestamp": "2026-08-16T04:17:03.543081Z",
+    "bbox": [
+      102.0,
+      100.0,
+      202.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.86,
+    "metadata": {
+      "load_test": true,
+      "sequence": 116
+    },
+    "event_key": "drone_load_00|2026-08-16T04:17:03.543081+00:00|102.000000,100.000000,202.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_01",
+    "timestamp": "2026-08-16T04:17:03.544087Z",
+    "bbox": [
+      100.0,
+      100.0,
+      200.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.87,
+    "metadata": {
+      "load_test": true,
+      "sequence": 117
+    },
+    "event_key": "drone_load_01|2026-08-16T04:17:03.544087+00:00|100.000000,100.000000,200.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_02",
+    "timestamp": "2026-08-16T04:17:03.545100Z",
+    "bbox": [
+      101.0,
+      100.0,
+      201.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.8799999999999999,
+    "metadata": {
+      "load_test": true,
+      "sequence": 118
+    },
+    "event_key": "drone_load_02|2026-08-16T04:17:03.545100+00:00|101.000000,100.000000,201.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_03",
+    "timestamp": "2026-08-16T04:17:03.546106Z",
+    "bbox": [
+      102.0,
+      100.0,
+      202.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.8899999999999999,
+    "metadata": {
+      "load_test": true,
+      "sequence": 119
+    },
+    "event_key": "drone_load_03|2026-08-16T04:17:03.546106+00:00|102.000000,100.000000,202.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_00",
+    "timestamp": "2026-08-16T04:17:03.547114Z",
+    "bbox": [
+      100.0,
+      100.0,
+      200.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.8999999999999999,
+    "metadata": {
+      "load_test": true,
+      "sequence": 120
+    },
+    "event_key": "drone_load_00|2026-08-16T04:17:03.547114+00:00|100.000000,100.000000,200.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_01",
+    "timestamp": "2026-08-16T04:17:03.548120Z",
+    "bbox": [
+      101.0,
+      100.0,
+      201.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.9099999999999999,
+    "metadata": {
+      "load_test": true,
+      "sequence": 121
+    },
+    "event_key": "drone_load_01|2026-08-16T04:17:03.548120+00:00|101.000000,100.000000,201.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_02",
+    "timestamp": "2026-08-16T04:17:03.549126Z",
+    "bbox": [
+      102.0,
+      100.0,
+      202.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.9199999999999999,
+    "metadata": {
+      "load_test": true,
+      "sequence": 122
+    },
+    "event_key": "drone_load_02|2026-08-16T04:17:03.549126+00:00|102.000000,100.000000,202.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_03",
+    "timestamp": "2026-08-16T04:17:03.550132Z",
+    "bbox": [
+      100.0,
+      100.0,
+      200.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.9299999999999999,
+    "metadata": {
+      "load_test": true,
+      "sequence": 123
+    },
+    "event_key": "drone_load_03|2026-08-16T04:17:03.550132+00:00|100.000000,100.000000,200.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_00",
+    "timestamp": "2026-08-16T04:17:03.551138Z",
+    "bbox": [
+      101.0,
+      100.0,
+      201.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.94,
+    "metadata": {
+      "load_test": true,
+      "sequence": 124
+    },
+    "event_key": "drone_load_00|2026-08-16T04:17:03.551138+00:00|101.000000,100.000000,201.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_01",
+    "timestamp": "2026-08-16T04:17:03.552144Z",
+    "bbox": [
+      102.0,
+      100.0,
+      202.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.7,
+    "metadata": {
+      "load_test": true,
+      "sequence": 125
+    },
+    "event_key": "drone_load_01|2026-08-16T04:17:03.552144+00:00|102.000000,100.000000,202.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_02",
+    "timestamp": "2026-08-16T04:17:03.553150Z",
+    "bbox": [
+      100.0,
+      100.0,
+      200.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.71,
+    "metadata": {
+      "load_test": true,
+      "sequence": 126
+    },
+    "event_key": "drone_load_02|2026-08-16T04:17:03.553150+00:00|100.000000,100.000000,200.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_03",
+    "timestamp": "2026-08-16T04:17:03.554482Z",
+    "bbox": [
+      101.0,
+      100.0,
+      201.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.72,
+    "metadata": {
+      "load_test": true,
+      "sequence": 127
+    },
+    "event_key": "drone_load_03|2026-08-16T04:17:03.554482+00:00|101.000000,100.000000,201.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_00",
+    "timestamp": "2026-08-16T04:17:03.555491Z",
+    "bbox": [
+      102.0,
+      100.0,
+      202.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.73,
+    "metadata": {
+      "load_test": true,
+      "sequence": 128
+    },
+    "event_key": "drone_load_00|2026-08-16T04:17:03.555491+00:00|102.000000,100.000000,202.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_01",
+    "timestamp": "2026-08-16T04:17:03.556497Z",
+    "bbox": [
+      100.0,
+      100.0,
+      200.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.74,
+    "metadata": {
+      "load_test": true,
+      "sequence": 129
+    },
+    "event_key": "drone_load_01|2026-08-16T04:17:03.556497+00:00|100.000000,100.000000,200.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_02",
+    "timestamp": "2026-08-16T04:17:03.557503Z",
+    "bbox": [
+      101.0,
+      100.0,
+      201.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.75,
+    "metadata": {
+      "load_test": true,
+      "sequence": 130
+    },
+    "event_key": "drone_load_02|2026-08-16T04:17:03.557503+00:00|101.000000,100.000000,201.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_03",
+    "timestamp": "2026-08-16T04:17:03.558509Z",
+    "bbox": [
+      102.0,
+      100.0,
+      202.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.76,
+    "metadata": {
+      "load_test": true,
+      "sequence": 131
+    },
+    "event_key": "drone_load_03|2026-08-16T04:17:03.558509+00:00|102.000000,100.000000,202.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_00",
+    "timestamp": "2026-08-16T04:17:03.559515Z",
+    "bbox": [
+      100.0,
+      100.0,
+      200.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.77,
+    "metadata": {
+      "load_test": true,
+      "sequence": 132
+    },
+    "event_key": "drone_load_00|2026-08-16T04:17:03.559515+00:00|100.000000,100.000000,200.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_01",
+    "timestamp": "2026-08-16T04:17:03.560521Z",
+    "bbox": [
+      101.0,
+      100.0,
+      201.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.7799999999999999,
+    "metadata": {
+      "load_test": true,
+      "sequence": 133
+    },
+    "event_key": "drone_load_01|2026-08-16T04:17:03.560521+00:00|101.000000,100.000000,201.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_02",
+    "timestamp": "2026-08-16T04:17:03.561527Z",
+    "bbox": [
+      102.0,
+      100.0,
+      202.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.7899999999999999,
+    "metadata": {
+      "load_test": true,
+      "sequence": 134
+    },
+    "event_key": "drone_load_02|2026-08-16T04:17:03.561527+00:00|102.000000,100.000000,202.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_03",
+    "timestamp": "2026-08-16T04:17:03.562532Z",
+    "bbox": [
+      100.0,
+      100.0,
+      200.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.7999999999999999,
+    "metadata": {
+      "load_test": true,
+      "sequence": 135
+    },
+    "event_key": "drone_load_03|2026-08-16T04:17:03.562532+00:00|100.000000,100.000000,200.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_00",
+    "timestamp": "2026-08-16T04:17:03.563539Z",
+    "bbox": [
+      101.0,
+      100.0,
+      201.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.8099999999999999,
+    "metadata": {
+      "load_test": true,
+      "sequence": 136
+    },
+    "event_key": "drone_load_00|2026-08-16T04:17:03.563539+00:00|101.000000,100.000000,201.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_01",
+    "timestamp": "2026-08-16T04:17:03.564544Z",
+    "bbox": [
+      102.0,
+      100.0,
+      202.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.82,
+    "metadata": {
+      "load_test": true,
+      "sequence": 137
+    },
+    "event_key": "drone_load_01|2026-08-16T04:17:03.564544+00:00|102.000000,100.000000,202.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_02",
+    "timestamp": "2026-08-16T04:17:03.565550Z",
+    "bbox": [
+      100.0,
+      100.0,
+      200.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.83,
+    "metadata": {
+      "load_test": true,
+      "sequence": 138
+    },
+    "event_key": "drone_load_02|2026-08-16T04:17:03.565550+00:00|100.000000,100.000000,200.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_03",
+    "timestamp": "2026-08-16T04:17:03.566556Z",
+    "bbox": [
+      101.0,
+      100.0,
+      201.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.84,
+    "metadata": {
+      "load_test": true,
+      "sequence": 139
+    },
+    "event_key": "drone_load_03|2026-08-16T04:17:03.566556+00:00|101.000000,100.000000,201.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_00",
+    "timestamp": "2026-08-16T04:17:03.567565Z",
+    "bbox": [
+      102.0,
+      100.0,
+      202.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.85,
+    "metadata": {
+      "load_test": true,
+      "sequence": 140
+    },
+    "event_key": "drone_load_00|2026-08-16T04:17:03.567565+00:00|102.000000,100.000000,202.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_01",
+    "timestamp": "2026-08-16T04:17:03.568569Z",
+    "bbox": [
+      100.0,
+      100.0,
+      200.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.86,
+    "metadata": {
+      "load_test": true,
+      "sequence": 141
+    },
+    "event_key": "drone_load_01|2026-08-16T04:17:03.568569+00:00|100.000000,100.000000,200.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_02",
+    "timestamp": "2026-08-16T04:17:03.569577Z",
+    "bbox": [
+      101.0,
+      100.0,
+      201.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.87,
+    "metadata": {
+      "load_test": true,
+      "sequence": 142
+    },
+    "event_key": "drone_load_02|2026-08-16T04:17:03.569577+00:00|101.000000,100.000000,201.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_03",
+    "timestamp": "2026-08-16T04:17:03.570581Z",
+    "bbox": [
+      102.0,
+      100.0,
+      202.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.8799999999999999,
+    "metadata": {
+      "load_test": true,
+      "sequence": 143
+    },
+    "event_key": "drone_load_03|2026-08-16T04:17:03.570581+00:00|102.000000,100.000000,202.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_00",
+    "timestamp": "2026-08-16T04:17:03.571586Z",
+    "bbox": [
+      100.0,
+      100.0,
+      200.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.8899999999999999,
+    "metadata": {
+      "load_test": true,
+      "sequence": 144
+    },
+    "event_key": "drone_load_00|2026-08-16T04:17:03.571586+00:00|100.000000,100.000000,200.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_01",
+    "timestamp": "2026-08-16T04:17:03.572591Z",
+    "bbox": [
+      101.0,
+      100.0,
+      201.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.8999999999999999,
+    "metadata": {
+      "load_test": true,
+      "sequence": 145
+    },
+    "event_key": "drone_load_01|2026-08-16T04:17:03.572591+00:00|101.000000,100.000000,201.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_02",
+    "timestamp": "2026-08-16T04:17:03.573596Z",
+    "bbox": [
+      102.0,
+      100.0,
+      202.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.9099999999999999,
+    "metadata": {
+      "load_test": true,
+      "sequence": 146
+    },
+    "event_key": "drone_load_02|2026-08-16T04:17:03.573596+00:00|102.000000,100.000000,202.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_03",
+    "timestamp": "2026-08-16T04:17:03.574600Z",
+    "bbox": [
+      100.0,
+      100.0,
+      200.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.9199999999999999,
+    "metadata": {
+      "load_test": true,
+      "sequence": 147
+    },
+    "event_key": "drone_load_03|2026-08-16T04:17:03.574600+00:00|100.000000,100.000000,200.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_00",
+    "timestamp": "2026-08-16T04:17:03.575605Z",
+    "bbox": [
+      101.0,
+      100.0,
+      201.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.9299999999999999,
+    "metadata": {
+      "load_test": true,
+      "sequence": 148
+    },
+    "event_key": "drone_load_00|2026-08-16T04:17:03.575605+00:00|101.000000,100.000000,201.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_01",
+    "timestamp": "2026-08-16T04:17:03.576611Z",
+    "bbox": [
+      102.0,
+      100.0,
+      202.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.94,
+    "metadata": {
+      "load_test": true,
+      "sequence": 149
+    },
+    "event_key": "drone_load_01|2026-08-16T04:17:03.576611+00:00|102.000000,100.000000,202.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_02",
+    "timestamp": "2026-08-16T04:17:03.577615Z",
+    "bbox": [
+      100.0,
+      100.0,
+      200.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.7,
+    "metadata": {
+      "load_test": true,
+      "sequence": 150
+    },
+    "event_key": "drone_load_02|2026-08-16T04:17:03.577615+00:00|100.000000,100.000000,200.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_03",
+    "timestamp": "2026-08-16T04:17:03.578620Z",
+    "bbox": [
+      101.0,
+      100.0,
+      201.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.71,
+    "metadata": {
+      "load_test": true,
+      "sequence": 151
+    },
+    "event_key": "drone_load_03|2026-08-16T04:17:03.578620+00:00|101.000000,100.000000,201.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_00",
+    "timestamp": "2026-08-16T04:17:03.579625Z",
+    "bbox": [
+      102.0,
+      100.0,
+      202.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.72,
+    "metadata": {
+      "load_test": true,
+      "sequence": 152
+    },
+    "event_key": "drone_load_00|2026-08-16T04:17:03.579625+00:00|102.000000,100.000000,202.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_01",
+    "timestamp": "2026-08-16T04:17:03.580634Z",
+    "bbox": [
+      100.0,
+      100.0,
+      200.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.73,
+    "metadata": {
+      "load_test": true,
+      "sequence": 153
+    },
+    "event_key": "drone_load_01|2026-08-16T04:17:03.580634+00:00|100.000000,100.000000,200.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_02",
+    "timestamp": "2026-08-16T04:17:03.581638Z",
+    "bbox": [
+      101.0,
+      100.0,
+      201.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.74,
+    "metadata": {
+      "load_test": true,
+      "sequence": 154
+    },
+    "event_key": "drone_load_02|2026-08-16T04:17:03.581638+00:00|101.000000,100.000000,201.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_03",
+    "timestamp": "2026-08-16T04:17:03.582647Z",
+    "bbox": [
+      102.0,
+      100.0,
+      202.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.75,
+    "metadata": {
+      "load_test": true,
+      "sequence": 155
+    },
+    "event_key": "drone_load_03|2026-08-16T04:17:03.582647+00:00|102.000000,100.000000,202.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_00",
+    "timestamp": "2026-08-16T04:17:03.583652Z",
+    "bbox": [
+      100.0,
+      100.0,
+      200.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.76,
+    "metadata": {
+      "load_test": true,
+      "sequence": 156
+    },
+    "event_key": "drone_load_00|2026-08-16T04:17:03.583652+00:00|100.000000,100.000000,200.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_01",
+    "timestamp": "2026-08-16T04:17:03.584657Z",
+    "bbox": [
+      101.0,
+      100.0,
+      201.0,
+      200.0
+    ],
+    "class": "archaeological_site",
+    "confidence": 0.77,
+    "metadata": {
+      "load_test": true,
+      "sequence": 157
+    },
+    "event_key": "drone_load_01|2026-08-16T04:17:03.584657+00:00|101.000000,100.000000,201.000000,200.000000"
+  },
+  {
+    "drone_id": "drone_load_02",
+    "timestamp": "2026-08-16T04:17:03.585662Z",
+    "bbox": [
+      102.0,
+      100.0,
+      202.0,
+      200.0
+    ],
+    "class": "temple_ruin",
+    "confidence": 0.7799999999999999,
+    "metadata": {
+      "load_test": true,
+      "sequence": 158
+    },
+    "event_key": "drone_load_02|2026-08-16T04:17:03.585662+00:00|102.000000,100.000000,202.000000,200.000000"
+  }
+]
